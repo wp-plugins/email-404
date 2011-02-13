@@ -1,1 +1,0 @@
-/home/jonathan/html/jfoucher.com/wp-content/plugins/email-404/email-404.php
