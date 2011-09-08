@@ -3,7 +3,7 @@
 Plugin Name: Email 404
 Plugin URI: http://jfoucher.com/email-404
 Description:Sends email on 404 error
-Version: 0.3
+Version: 0.3.1
 Author: Jonathan Foucher
 Author URI: http://jfoucher.com
 

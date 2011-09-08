@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: jfoucher
-Donate link: http://jfoucher.com.com/
+Donate link: http://jfoucher.com/
 Tags: error, 404, email, notification
 Requires at least: 2.9.2
 Tested up to: 3.0.4
-Stable tag: 0.3
+Stable tag: 0.3.1
 
 Send the site administrator an email when someone encounters a 404 error on your blog
 
